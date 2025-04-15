@@ -5,7 +5,7 @@
 - <b>Scripting Practice</b>
   - [Bash Scripting Practice](https://github.com/clarene25/Scripting)
 - <b>Tools</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Graylog:](https://github.com/clarene25/Graylog/blob/dev/README.md)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
