@@ -3,7 +3,7 @@
 <h2>👨‍💻 Linux Projects and Tools:</h2>
 
 - <b>Scripting Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Bash Scripting](https://github.com/clarene25/Scripting)
 - <b>Tools</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
